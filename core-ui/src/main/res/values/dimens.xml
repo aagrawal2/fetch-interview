@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="icon_size_large">50dp</dimen>
+    <dimen name="spacing_large">20dp</dimen>
+    <dimen name="spacing_medium">10dp</dimen>
+    <dimen name="thickness_small">3dp</dimen>
+    <dimen name="width_small">100dp</dimen>
+
+    <dimen name="font_size_large">30sp</dimen>
+</resources>

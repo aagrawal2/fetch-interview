@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="item_list_id">ListID: %1$d</string>
+    <string name="item_id">ID</string>
+    <string name="item_name">Name</string>
+    <string name="item_sort">Sort</string>
+    <string name="item_filter">Filter</string>
+</resources>
